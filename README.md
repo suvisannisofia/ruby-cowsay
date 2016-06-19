@@ -1,2 +1,2 @@
-# ruby-cowsay
+# Ruby Cowsay
 Cowsay for Ruby
